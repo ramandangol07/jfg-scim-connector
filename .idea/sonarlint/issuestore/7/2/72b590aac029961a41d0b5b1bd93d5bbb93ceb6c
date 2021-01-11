@@ -1,0 +1,51 @@
+
+W	java:S125Š"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
+F
+java:S3740 "/Provide the parametrized type for this generic.(ø—À«
+V	java:S1250"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
+R
+java:S3740®"/Provide the parametrized type for this generic.(çøåûÿÿÿÿ8¼ì™òß.
+I
+java:S1172‰"2Remove this unused method parameter "accessToken".(İÍ¾¡
+
+java:S1488œ"\Immediately return this expression instead of assigning it to the temporary variable "json".(¹ÎÛåûÿÿÿÿ8¿º„òß.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¹
+E
+java:S3740q"/Provide the parametrized type for this generic.(Ô×¶æ
+h
+java:S1192~"FDefine a constant instead of duplicating this literal "/user" 3 times.(’ûŸÄúÿÿÿÿ8¼ì™òß.
+R
+java:S3740™"/Provide the parametrized type for this generic.(çøåûÿÿÿÿ8§Œ„òß.
+
+java:S1488±"\Immediately return this expression instead of assigning it to the temporary variable "json".(¹ÎÛåûÿÿÿÿ8¼ì™òß.
+z
+java:S4144 "\Update this method so that its implementation is not identical to "creatMember" on line 113.(ø—À«8¼ì™òß.
+R
+java:S3740"/Provide the parametrized type for this generic.(çøåûÿÿÿÿ8Ì»¾Óß.
+O
+java:S1172q"2Remove this unused method parameter "accessToken".(Ô×¶æ8úÔ¾Óß.
+B
+java:S1168É"+Return an empty collection instead of null.(¥¹ï
+V	java:S125#"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
+W	java:S125¶"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
+j
+java:S1192c"HDefine a constant instead of duplicating this literal "baseUrl" 4 times.(×€Áúÿÿÿÿ8§Œ„òß.
+Q	java:S125F"<This block of commented-out lines of code should be removed.(Ù¢°ä
+=
+java:S1172µ"&Remove these unused method parameters.(¦í±û
+H
+java:S1172E"2Remove this unused method parameter "accessToken".(ßø°Ë
+{
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(­–ÁËşÿÿÿÿ8ñØã®ß.
+€
+java:S1488i"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÔÅÈÂıÿÿÿÿ8ôÃõÓß.
+W	java:S125¡"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
+F
+java:S3740‰"/Provide the parametrized type for this generic.(İÍ¾¡
+I
+java:S1172 "2Remove this unused method parameter "accessToken".(ø—À«
+
+java:S1488„"\Immediately return this expression instead of assigning it to the temporary variable "json".(¹ÎÛåûÿÿÿÿ8¬¡ÌÓß.
+z
+java:S4144‰"\Update this method so that its implementation is not identical to "creatMember" on line 113.(İÍ¾¡8¿º„òß.
+V	java:S125r"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ

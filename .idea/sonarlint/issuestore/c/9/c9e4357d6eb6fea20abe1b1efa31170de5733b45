@@ -1,0 +1,75 @@
+
+L
+java:S3740D"/Provide the parametrized type for this generic.(ÊÌ†8¨êğ²ç.
+K
+java:S3740˜"/Provide the parametrized type for this generic.(¼³ùàüÿÿÿÿ
+K
+java:S3740Õ"/Provide the parametrized type for this generic.(¯áå¥ÿÿÿÿÿ
+Q
+java:S1481<"/Remove this unused "customerId" local variable.(µŠçøÿÿÿÿ8É¾¢è.
+c
+java:S1192›"GDefine a constant instead of duplicating this literal "active" 3 times.(£¯ëüÿÿÿÿ
+b
+java:S1128"@Remove this unused import 'org.springframework.http.HttpMethod'.(Ê¨Ä¡øÿÿÿÿ8¿“Ç‡ç.
+K
+java:S3740‰"/Provide the parametrized type for this generic.(©Â¬µûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë–Æ
+?
+java:S14819"*Remove this unused "users" local variable.(­¬ˆx
+[
+java:S1854I">Remove this useless assignment to local variable "customerId".(ÿÅ·‚8ìÎÀ¢è.
+M
+java:S3740²"/Provide the parametrized type for this generic.(£¸¦8òï·æ.
+M
+java:S3740Æ"/Provide the parametrized type for this generic.(’ËëÖ8Øï·æ.
+F
+java:S5411¹"*Use the primitive boolean expression here.(ğÏ©œşÿÿÿÿ
+K
+java:S3740@"/Provide the parametrized type for this generic.(ÿÜl8Ô»ñ·æ.
+K
+java:S3740ã"/Provide the parametrized type for this generic.(ÜÿÂúøÿÿÿÿ
+K
+java:S3740â"/Provide the parametrized type for this generic.(–´ŠÖıÿÿÿÿ
+F
+java:S3740ß"/Provide the parametrized type for this generic.(Ç¡şé
+F
+java:S3740ß"/Provide the parametrized type for this generic.(Ç¡şé
+f
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8¿“Ç‡ç.
+†
+java:S1128"iRemove this unused import 'com.beyondid.scimConnector.jfgcp.service.implHttpHelper.urlbuild.HttpService'.(óƒáµ8”Öµ‡ç.
+E
+java:S3740="/Provide the parametrized type for this generic.(ıí§ü
+X	java:S125W"<This block of commented-out lines of code should be removed.(Îíè½8˜®Ê¢è.
+g
+java:S1301½"KReplace this "switch" statement by "if" statements to increase readability.(¬ö¤šøÿÿÿÿ
+n
+java:S37766"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÿ—˜p8Â©¿¢è.
+=	java:S131½""Add a default case to this switch.(¬ö¤šøÿÿÿÿ
+F
+java:S3740Ô"/Provide the parametrized type for this generic.(ÓŠˆ
+D
+java:S1125›"(Remove the literal "true" boolean value.(£¯ëüÿÿÿÿ
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(µÕëëùÿÿÿÿ
+J
+java:S3740}"/Provide the parametrized type for this generic.(¸‘ÿ¢ıÿÿÿÿ
+K
+java:S3740Õ"/Provide the parametrized type for this generic.(¯áå¥ÿÿÿÿÿ
+€
+java:S1128"^Remove this unused import 'com.beyondid.scimConnector.jfgcp.service.restApiHandler.ClassyApi'.(ùªÍœøÿÿÿÿ8ÓµÈ‡ç.
+Q
+java:S3740P"/Provide the parametrized type for this generic.(˜®Ñÿÿÿÿÿ8êØÉ¢è.
++
+java:S3457v"Not enough arguments.(Æªô
+J
+java:S3740}"/Provide the parametrized type for this generic.(¸‘ÿ¢ıÿÿÿÿ
+]	java:S125a"<This block of commented-out lines of code should be removed.(—³¹¡ÿÿÿÿÿ8¡ºı‡ç.
+X
+java:S3457Ë"AFormat specifiers should be used instead of string concatenation.(Æ´´ğ
+{
+java:S1128"_Remove this unused import 'com.beyondid.scimConnector.jfgcp.service.restApiHandler.TestAppApi'.(ÏÊ¤8ò‡È‡ç.
+J
+java:S3740["/Provide the parametrized type for this generic.(˜®Ñÿÿÿÿÿ
+K
+java:S3740‚"/Provide the parametrized type for this generic.(ßÕøáùÿÿÿÿ

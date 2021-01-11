@@ -1,0 +1,24 @@
+
+E
+java:S3740;"/Provide the parametrized type for this generic.(ØÍÐé
+]	java:S125("<This block of commented-out lines of code should be removed.(Ïä³Êýÿÿÿÿ8‹§¾¥ç.
+R
+java:S2589<"7Remove this expression which always evaluates to "true"(Ý­¦Åüÿÿÿÿ
+h
+java:S3776;"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ØÍÐé
+J
+java:S3740#"/Provide the parametrized type for this generic.(Íû‚ôþÿÿÿÿ
+J
+java:S3740'"/Provide the parametrized type for this generic.(Í¯ªŸùÿÿÿÿ
+M
+java:S1481$"0Remove this unused "nonCustomer" local variable.(òË¼8šÏ£è.
+J
+java:S3740@"/Provide the parametrized type for this generic.(ó„¨Ôûÿÿÿÿ
+f	java:S116!"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Â¯¢
+L
+java:S3740$"/Provide the parametrized type for this generic.(òË¼8Ý‘­²ç.
+J
+java:S3740D"/Provide the parametrized type for this generic.(ûàÇ•úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºðùÞÿÿÿÿÿ
+d
+java:S4201<"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ý­¦Åüÿÿÿÿ

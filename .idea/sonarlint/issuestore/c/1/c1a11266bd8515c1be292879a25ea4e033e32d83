@@ -1,0 +1,32 @@
+
+Q
+java:S3740/"/Provide the parametrized type for this generic.(ï¤¹Äÿÿÿÿÿ8êöš¶æ.
+Q
+java:S37403"/Provide the parametrized type for this generic.(Éþ´™þÿÿÿÿ8Í¾¥‰ç.
+c
+java:S3457U"AFormat specifiers should be used instead of string concatenation.(²¨Ä‹ýÿÿÿÿ8êöš¶æ.
+Ž
+java:S1130("lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(›Îá»úÿÿÿÿ8êöš¶æ.
+Q
+java:S3740<"/Provide the parametrized type for this generic.(ƒÊÎ—ýÿÿÿÿ8ŠÿÚ‰ç.
+L
+java:S3740N"/Provide the parametrized type for this generic.(ÛÖ–8ðõ‚²ç.
+Q
+java:S3740("/Provide the parametrized type for this generic.(›Îá»úÿÿÿÿ8êöš¶æ.
+Q
+java:S37402"/Provide the parametrized type for this generic.(è¬µ¡ùÿÿÿÿ8ø…Ä±ç.
+A
+java:S26291"$Invoke method(s) only conditionally.(°´Š¥8êöš¶æ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºðùÞÿÿÿÿÿ
+L
+java:S3740-"/Provide the parametrized type for this generic.(èŠ¿Î8êöš¶æ.
+e
+java:S1192="HDefine a constant instead of duplicating this literal "jfgguid" 5 times.(šÉ®8“ëŠç.
+o
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(èŠ¿Î8¸Û„²ç.
+~
+java:S34571"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(°´Š¥8êöš¶æ.
+Q
+java:S1066M"/Merge this if statement with the enclosing one.(¨ª³Éúÿÿÿÿ8ñË²ç.
+m
+java:S1192@"KDefine a constant instead of duplicating this literal "customerId" 3 times.(–žåõüÿÿÿÿ8¦ˆíŠç.

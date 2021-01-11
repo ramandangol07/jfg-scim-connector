@@ -1,0 +1,27 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—ÀJ
+j
+java:S1192k"MDefine a constant instead of duplicating this literal "        },\n" 8 times.(¥ÁÊÁ8å³Ô¢è.
+L
+java:S3740&"/Provide the parametrized type for this generic.(† òİ8éŒ’·æ.
+L
+java:S3740&"/Provide the parametrized type for this generic.(† òİ8éŒ’·æ.
+L
+java:S37404"/Provide the parametrized type for this generic.(œÊíÜ8†î··æ.
+…
+java:S1192j"cDefine a constant instead of duplicating this literal "            \"method\": \"POST\"\n" 6 times.(Óã–äüÿÿÿÿ8å³Ô¢è.
+Q
+java:S37402"/Provide the parametrized type for this generic.(Ô•øòúÿÿÿÿ8†î··æ.
+f
+java:S1192D"IDefine a constant instead of duplicating this literal "    },\n" 3 times.(¥ÁÊÁ8å³Ô¢è.
+\
+java:S18542":Remove this useless assignment to local variable "entity".(Ô•øòúÿÿÿÿ8À“³¤è.
+W
+java:S18544":Remove this useless assignment to local variable "entity".(œÊíÜ8À“³¤è.
+X
+java:S18547";Remove this useless assignment to local variable "fullUrl".(»¨ÈÅ8À“³¤è.
+^	java:S125"<This block of commented-out lines of code should be removed.(»Ç²ùÿÿÿÿ8À“³¤è.
+H
+java:S1481/"+Remove this unused "entity" local variable.(…ŸÌ8À“³¤è.
+I
+java:S14817",Remove this unused "fullUrl" local variable.(»¨ÈÅ8À“³¤è.

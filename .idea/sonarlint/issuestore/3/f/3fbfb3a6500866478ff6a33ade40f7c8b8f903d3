@@ -1,0 +1,23 @@
+
+€	java:S116"fRename this field "JSON_ARRAY_START_IDENTIFIER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Υ‚ϊƒωÿÿÿÿ
+z	java:S116
+"`Rename this field "JSON_CUSTOM_PROP_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΚξΪ‘ÿÿÿÿÿ
+k	java:S116%"VRename this field "CORE_SCHEMA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Λ
+†	java:S1161"lRename this field "JSON_CONVERSION_EXTAPPTOSCIM_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(υ»½ϋÿÿÿÿ
+m	java:S116+"XRename this field "CUSTOM_SCHEMA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦’άθ
+p	java:S116("[Rename this field "EXTENSION_SCHEMA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ζ§²’
+‹	java:S116="qRename this field "JSON_CONVERSION_SCIMTOEXTAPP_PROP_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(αθΛψÿÿÿÿ
+w	java:S116F"[Rename this field "JOHNSON_APP_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(πΒ‘8„΅™ÿε.
+y	java:S116"_Rename this field "JSON_DOT_REPLACEMENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(νυ­ψÿÿÿÿ
+‚	java:S1167"mRename this field "JSON_KEY_ARRAY_SPECIAL_IDENTIFIERS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ύπς
+~	java:S116"dRename this field "JSON_ARRAY_END_IDENTIFIER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ύ΄όχϊÿÿÿÿ
+z	java:S116"`Rename this field "JSON_ARRAY_IDENTIFIER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Π®ώΡÿÿÿÿÿ
+y	java:S116."dRename this field "JSON_CONVERSION_PROP_FILE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(γ±™
+v	java:S116:"\Rename this field "SPACE_REPRESENTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ά”†λÿÿÿÿÿ
+y	java:S116C"XRename this field "TEST_APP_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹Αώÿÿÿÿ8ΛΆ®ί.
+€	java:S116""fRename this field "JSON_UNDERSCORE_REPRESENTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±–ς…ώÿÿÿÿ
+y	java:S116"dRename this field "JSON_KEY_ARRAY_IDENTIFIER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(σ‡±ν
+	java:S1164"lRename this field "JSON_KEY_ARRAY_SPECIAL_IDENTIFIER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›Ψϋ°
+k	java:S116@"VRename this field "CLASSY_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ΉΩ‹
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ψ’ονύÿÿÿÿ
+	java:S116"eRename this field "JSON_STRINGTOKENIZER_DELIM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ζ¤ζΝώÿÿÿÿ

@@ -1,0 +1,7 @@
+
+t
+java:S1104
+"RMake orgUrl a static final constant or non-public and provide accessors if needed.(ØëÔİúÿÿÿÿ8È‡°·æ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø’ïíıÿÿÿÿ
+t
+java:S1104"RMake apiKey a static final constant or non-public and provide accessors if needed.(“â‰ùÿÿÿÿ8È‡°·æ.

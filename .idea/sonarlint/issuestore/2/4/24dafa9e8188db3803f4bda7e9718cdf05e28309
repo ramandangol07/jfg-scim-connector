@@ -1,0 +1,17 @@
+
+L
+java:S3740-"/Provide the parametrized type for this generic.(Ü†Ú›8æ¡ÄµÊ.
+H
+java:S1481<"+Remove this unused "entity" local variable.(ÖüùÃ8«Ü˝£Ë.
+\
+java:S1854?":Remove this useless assignment to local variable "entity".(‘ï¯Ú˙ˇˇˇˇ8«Ü˝£Ë.
+L
+java:S3740D"/Provide the parametrized type for this generic.(ú Ì‹8ôÜäÁ.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó¿éJ
+W
+java:S1854D":Remove this useless assignment to local variable "entity".(ú Ì‹8«Ü˝£Ë.
+L
+java:S3740-"/Provide the parametrized type for this generic.(Ü†Ú›8ºøùµÊ.
+Q
+java:S3740?"/Provide the parametrized type for this generic.(‘ï¯Ú˙ˇˇˇˇ8™üÜäÁ.
+]	java:S125Z"<This block of commented-out lines of code should be removed.(÷ãÜõ˙ˇˇˇˇ8«Ü˝£Ë.

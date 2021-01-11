@@ -1,0 +1,12 @@
+
+[	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ö÷ëü
+Z
+java:S2147;"DCombine this catch with the one at line 56, which has the same body.(ï­£Ä
+\
+java:S34579"AFormat specifiers should be used instead of string concatenation.(øÊùÿÿÿÿ
+\
+java:S3457<"AFormat specifiers should be used instead of string concatenation.(øÊùÿÿÿÿ
+c
+java:S20956"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾ªÚò
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø’ïíıÿÿÿÿ
+[	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(Ö÷ëü

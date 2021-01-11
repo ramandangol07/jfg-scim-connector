@@ -1,0 +1,27 @@
+
+V	java:S125D"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ¹
+=
+java:S1172…"&Remove these unused method parameters.(ø—À«
+<
+java:S1172c"&Remove these unused method parameters.(Ô×¶æ
+=
+java:S1172‘"&Remove these unused method parameters.(¦í±û
+E
+java:S3740u"/Provide the parametrized type for this generic.(İÍ¾¡
+V	java:S125!"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
+B
+java:S1168¥"+Return an empty collection instead of null.(¥¹ï
+W	java:S125’"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
+<
+java:S1172C"&Remove these unused method parameters.(ßø°Ë
+<
+java:S1172u"&Remove these unused method parameters.(İÍ¾¡
+F
+java:S3740…"/Provide the parametrized type for this generic.(ø—À«
+E
+java:S3740c"/Provide the parametrized type for this generic.(Ô×¶æ
+V	java:S125."<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
+V	java:S125v"<This block of commented-out lines of code should be removed.(£¦ö”ùÿÿÿÿ
